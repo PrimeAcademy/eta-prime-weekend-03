@@ -1,0 +1,22 @@
+[
+	{
+		"id":"batman",
+		"url":"/public/images/batman.jpg",
+	},
+	{
+		"id":"magnet",
+		"url":"/public/images/are-you-a-magnet.jpg",
+	},
+	{
+		"id":"nickcage",
+		"url":"/public/images/nickcage.jpeg",
+	},
+	{
+		"id":"oprah",
+		"url":"/public/imagesOprah_umad.gif",
+	},
+	{
+		"id":"interests",
+		"url":"/public/imagesrelevant-to-my-interests.jpg",
+	},
+]
